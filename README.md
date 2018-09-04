@@ -1,2 +1,6 @@
 # HTML-Text-Structure
-This is a repo for setting up the flow of the html document with a focus on text structure
+<html lang="en">
+<head>
+  <title></title>
+  <meta charset="utf-8">
+  <meta name="description" content= "keywords">
