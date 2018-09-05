@@ -14,10 +14,9 @@
      <section id="section 1">
        <article class="articles">
        <article>
-         <h2>
+         <h2>"Hasknin's Heisman Status Soars After Week 1 Performance"</h2>
           <p>
           </p>
-         </h2>
        </article>
      </section>
      <section id="section2"></section>
