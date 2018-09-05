@@ -7,9 +7,18 @@
   <meta name="keywords" content="">
  </head>
  <body>
+   <header>
+     <h1>"main title"</h1>
+   </header>
    <main>
      <section id="section 1">
-       <article></article>
+       <article class="articles">
+       <article>
+         <h2>
+          <p>
+          </p>
+         </h2>
+       </article>
      </section>
      <section id="section2"></section>
      <section id="section3"></section>
@@ -19,6 +28,7 @@
     
     
     
-    
+      <footer>
+      </footer>
    </body>
    </html>
