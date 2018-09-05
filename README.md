@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title></title>
+  <title>The Buckeye Bulletin</title>
   <meta charset="utf-8">
-  <meta name="description" content= "">
+  <meta name="description" content= "If it happenens on campus it happens here.">
   <meta name="keywords" content="">
  </head>
  <body>
