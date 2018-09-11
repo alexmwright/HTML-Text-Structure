@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>The Buckeye Bulletin</title>
+  <title></title>
   <meta charset="utf-8">
-  <meta name="description" content= "If it happenens on campus it happens here.">
+  <meta name="description" content= "">
   <meta name="keywords" content="">
  </head>
  <body>
@@ -14,7 +14,7 @@
      <section id="section 1">
        <article class="articles">
        <article>
-         <h2>"Hasknin's Heisman Status Soars After Week 1 Performance"</h2>
+         <h2>""</h2>
           <p>
           </p>
        </article>
